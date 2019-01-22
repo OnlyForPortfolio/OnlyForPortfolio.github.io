@@ -26,7 +26,7 @@
 }
 
 .navigation-clean .navbar-toggler {
-  border-color: #ddd;
+  border-color: rgba(0,0,0,0);
 }
 
 .navigation-clean .navbar-toggler:hover, .navigation-clean .navbar-toggler:focus {
@@ -34,7 +34,7 @@
 }
 
 .navigation-clean .navbar-toggler {
-  color: #888;
+  color: rgba(0,0,0,0);
 }
 
 .navigation-clean .navbar-collapse, .navigation-clean .form-inline {
